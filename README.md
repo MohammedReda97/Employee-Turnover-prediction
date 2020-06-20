@@ -17,9 +17,9 @@ the colums are ('satisfaction_level', 'last_evaluation', 'number_project', 'aver
 Hint 24% only from data are related to who have left and 76% for other who stay 
 
 # Installation 
-Numpy 
-Pandas
-Scikit-learn
+numpy 
+pandas
+scikit-learn
 seaborn 
 matplotlib
 
