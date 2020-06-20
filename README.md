@@ -13,6 +13,13 @@ you will find more in Midum post here.
 # File Descriptions
 the first file called "turnover.csv' it's contaning the traaining and test set. it's shape of 15000 * 10 
 the colums are ('satisfaction_level', 'last_evaluation', 'number_project', 'average_montly_hours', 'time_spend_company', 'Work_accident','left', 'promotion_last_5years', 'sales', 'salary')
-24% only from data are related to who have left and 76% for other who stay 
 
+Hint 24% only from data are related to who have left and 76% for other who stay 
+
+# Installation 
+Numpy 
+Pandas
+Scikit-learn
+seaborn 
+matplotlib
 
