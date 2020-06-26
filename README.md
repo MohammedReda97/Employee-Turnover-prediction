@@ -7,7 +7,7 @@ Her is data set of 15000 example about employee turnover to help Hr and mangers 
 Also we used insights from data to ansewer 3 main questions like "which parameter is the most relevent to make people leave their work?" 
 are the people who made job acciedent more leave or the oposite ? and which type of jobs employee leave in short time ?
 
-you will find more in Midum post here.
+you will find more in Midum post at the end.
 
 
 # File Descriptions
@@ -23,3 +23,5 @@ scikit-learn
 seaborn 
 matplotlib
 
+# Medium 
+[Articel is here](https://medium.com/@mohamed.reda3327/as-an-hr-manger-or-even-team-lead-how-to-protect-your-talented-employees-5a4136844eab?source=friends_link&sk=230dee9c7e1c63e9dafc9c5e20aec324)
